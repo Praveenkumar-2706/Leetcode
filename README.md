@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,5 +55,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
