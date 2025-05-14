@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,4 +60,8 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
