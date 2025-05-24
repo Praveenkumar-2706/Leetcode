@@ -7,7 +7,8 @@ class Solution(object):
         top, left = 0,0
         bottom, right = rows-1,cols-1
 
-        while left <= right and top <= bottom:
+        # while left <= right and top <= bottom:
+        while len(res) != rows * cols:
             for col in range(left,right+1):
                 res.append(matrix[top][col])
             top += 1
