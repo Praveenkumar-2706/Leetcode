@@ -1,5 +1,5 @@
-class Solution(object):
-    def generateMatrix(self, n):
+class Solution:
+    def generateMatrix(self, n: int) -> List[List[int]]:
         if n <= 0 or n > 20:
             return
 
@@ -30,11 +30,4 @@ class Solution(object):
                     matrix[row][left] = count+1
                     count+=1
                 left += 1
-        return matrix
-                
-
-
-
-
-        
-        
+        return matrix 
