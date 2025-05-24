@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0898-transpose-matrix) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
