@@ -1,22 +1,18 @@
 class Solution {
     public int reverse(int x) {
-        int rev = 0;
+        // Step 1: Get the sign
+        int sign = x < 0 ? -1 : 1;
 
-        while (x != 0) {
-            int digit = x % 10;
-            x /= 10;
+        // Step 2: Convert absolute value to string
+        String str = new StringBuilder(String.valueOf(Math.abs((long)x))).reverse().toString();
 
-            // Check for overflow before actually updating rev
-            if (rev > Integer.MAX_VALUE / 10 || (rev == Integer.MAX_VALUE / 10 && digit > 7)) {
-                return 0;  // overflow
-            }
-            if (rev < Integer.MIN_VALUE / 10 || (rev == Integer.MIN_VALUE / 10 && digit < -8)) {
-                return 0;  // underflow
-            }
-
-            rev = rev * 10 + digit;
+        // Step 3: Convert back to integer and handle overflow
+        try {
+            int reversed = Integer.parseInt(str);
+            return reversed * sign;
+        } catch (NumberFormatException e) {
+            // If it overflows
+            return 0;
         }
-
-        return rev;
     }
 }
