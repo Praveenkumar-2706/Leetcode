@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0326-power-of-three) |
