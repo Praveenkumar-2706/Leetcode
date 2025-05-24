@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0498-diagonal-traverse](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -35,6 +36,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -79,6 +81,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
