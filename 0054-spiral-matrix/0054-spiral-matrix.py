@@ -1,5 +1,5 @@
-class Solution(object):
-    def spiralOrder(self, matrix):
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         rows = len(matrix)
         cols = len(matrix[0])
         res = []
@@ -27,4 +27,3 @@ class Solution(object):
                     res.append(matrix[row][left])
                 left += 1
         return res
-            
