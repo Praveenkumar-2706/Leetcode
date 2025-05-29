@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0029-divide-two-integers) |
@@ -60,6 +61,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar-2706/Leetcode/tree/master/1013-fibonacci-number) |
@@ -100,4 +102,8 @@
 | [0498-diagonal-traverse](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Praveenkumar-2706/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
