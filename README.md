@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0001-two-sum) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Praveenkumar-2706/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
 | ------- |
@@ -110,4 +111,17 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Praveenkumar-2706/Leetcode/tree/master/0006-zigzag-conversion) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Praveenkumar-2706/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Praveenkumar-2706/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Greedy
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Praveenkumar-2706/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Praveenkumar-2706/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
